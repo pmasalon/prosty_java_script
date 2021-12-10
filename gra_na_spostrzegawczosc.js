@@ -9,7 +9,7 @@
 <style>
 
 body{background-color: #ff3399}
-button{width: 130px; height: 40px; background-color: violet; color: aqua; font-size: 14px;}
+button{width: 130px; height: 40px; background-color: green; color: white; font-size: 14px;}
 h2{color: #66ff55;}
 #tekst{color: #22ee11;}
 </style>
